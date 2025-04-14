@@ -1,12 +1,5 @@
 <?php
-/*
-Developed by Habibie
-Email: habibieamrullah@gmail.com 
-WhatsApp: 6287880334339
-WebSite: https://webappdev.my.id
-*/
 
-/*
 Step 1 : Create a database, and take a note of your database name
 Step 2 : Create a database user and assign that user to that database, take a note of user name and password
 Step 3 : Adjust database connection information on dbcon.php file according to your notes earlier
