@@ -1,10 +1,4 @@
 <?php
-/*
-Developed by Habibie
-Email: habibieamrullah@gmail.com 
-WhatsApp: 6287880334339
-WebSite: https://webappdev.my.id
-*/
 
 session_start();
 include("config.php");
@@ -92,7 +86,7 @@ include("uilang.php");
 								<a href="<?php echo $baseurl ?>admin.php?settings"><div class="adminleftbaritem"><i class="fa fa-cogs" style="width: 30px;"></i> <?php echo uilang("Settings") ?></div></a>
 								<a href="<?php echo $baseurl ?>admin.php?logout"><div class="adminleftbaritem"><i class="fa fa-sign-out" style="width: 30px;"></i> <?php echo uilang("Logout") ?></div></a>
 								
-								<div style="text-align: center; padding: 30px; font-size: 10px;"><?php echo uilang("Developed by") ?><br><a target="_blank" class="textlink" style="color: lime;" href="https://webappdev.my.id/">https://webappdev.my.id/</a><br><br>Donate to the author:<br><a href="https://www.paypal.me/habibieamrullah" class="textlink" style="color: lime;">https://www.paypal.me/habibieamrullah</a></div>
+									tyle="text-align: center; padding: 30px; font-size: 10px;"><?php echo uilang("Developed by") ?><br><a target="_blank" class="k" style="color: lime;" <br>OLEH KELOMPOK -KHAIRUL -LINTANG - DIVO </br></div>
 							</div>
 						</div>
 						<div style="display: table-cell; padding: 25px; vertical-align: top; border-left: 1px solid <?php echo $maincolor ?>; ">
