@@ -1,5 +1,6 @@
 <?php
 
+
 session_start();
 include("config.php");
 include("functions.php");
@@ -86,7 +87,7 @@ include("uilang.php");
 								<a href="<?php echo $baseurl ?>admin.php?settings"><div class="adminleftbaritem"><i class="fa fa-cogs" style="width: 30px;"></i> <?php echo uilang("Settings") ?></div></a>
 								<a href="<?php echo $baseurl ?>admin.php?logout"><div class="adminleftbaritem"><i class="fa fa-sign-out" style="width: 30px;"></i> <?php echo uilang("Logout") ?></div></a>
 								
-									tyle="text-align: center; padding: 30px; font-size: 10px;"><?php echo uilang("Developed by") ?><br><a target="_blank" class="k" style="color: lime;" <br>OLEH KELOMPOK -KHAIRUL -LINTANG - DIVO </br></div>
+								<div style="text-align: center; padding: 30px; font-size: 10px;"><?php echo uilang("Developed by") ?><br><a target="_blank" class="k" style="color: lime;"></a> KELOMPOK KHAIRUL DIVO DAN LINTANG <br><br></a></div>
 							</div>
 						</div>
 						<div style="display: table-cell; padding: 25px; vertical-align: top; border-left: 1px solid <?php echo $maincolor ?>; ">
